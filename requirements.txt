@@ -1,0 +1,6 @@
+streamlit
+pandas
+plotly
+sentence-transformers
+torch
+tqdm
